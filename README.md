@@ -1,3 +1,3 @@
 # language-translation
-english_to_french
+english_to_french,
 french_to_english
